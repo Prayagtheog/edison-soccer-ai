@@ -75,7 +75,7 @@ export default function Home() {
   const [isLoading, setIsLoading] = useState(false);
   const [conversationHistory, setConversationHistory] = useState<any[]>([]);
   const messagesEndRef = useRef<HTMLDivElement>(null);
-  const API = 'http://localhost:8000';
+  const API = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
 
   useEffect(() => { messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' }); }, [messages]);
   useEffect(() => {
