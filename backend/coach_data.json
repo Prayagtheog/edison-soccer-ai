@@ -1,0 +1,43 @@
+{
+  "player_notes": [
+    {
+      "id": "99e4887e-b7d3-4a86-820c-12eb27c70a1d",
+      "player_name": "Team",
+      "note": "hi",
+      "category": "general",
+      "coach": "Coach",
+      "created_at": "2026-02-17T22:20:58.134421"
+    },
+    {
+      "id": "491dc147-6fec-4270-befe-62c335382c9d",
+      "player_name": "Team",
+      "note": "emmanuel needs to focus on tracking back to defend when time comes",
+      "category": "tactical",
+      "coach": "Coach",
+      "created_at": "2026-02-17T22:21:57.460633"
+    },
+    {
+      "id": "96ab06ec-c659-4463-8f69-7c0ab4531390",
+      "player_name": "Team",
+      "note": "roy on the basketball boys team is by far the best player",
+      "category": "general",
+      "coach": "Coach",
+      "created_at": "2026-02-17T23:01:59.229683"
+    }
+  ],
+  "injuries": [],
+  "game_notes": [],
+  "scouting_reports": [
+    {
+      "id": "c37a6f98-543e-4c06-80ea-b224f48ec209",
+      "opponent": "sd",
+      "formation": null,
+      "key_players": "",
+      "strengths": "ds",
+      "weaknesses": "",
+      "tactical_notes": "",
+      "created_at": "2026-02-17T22:21:04.921759"
+    }
+  ],
+  "custom_player_data": []
+}

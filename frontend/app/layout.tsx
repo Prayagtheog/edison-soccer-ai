@@ -5,8 +5,8 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Edison Eagles Soccer AI',
-  description: 'Intelligent scouting assistant for Edison High School soccer',
+  title: 'Edison Eagles Athletics Hub',
+  description: 'AI-powered analytics platform for all Edison High School athletics — live stats, trends, and coach tools.',
 }
 
 export default function RootLayout({
